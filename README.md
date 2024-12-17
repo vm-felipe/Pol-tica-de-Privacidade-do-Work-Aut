@@ -53,7 +53,7 @@ Você, como cliente, possui os seguintes direitos:
 - **Solicitar a correção ou exclusão** dos dados fornecidos.
 - **Revogar consentimento** para o uso dos dados a qualquer momento.
 
-Para exercer esses direitos, entre em contato através do e-mail: **[seu e-mail de suporte]**.
+Para exercer esses direitos, entre em contato através do WhatsApp (11) 9 8673-6274.
 
 ---
 
@@ -78,15 +78,6 @@ Esta política pode ser atualizada a qualquer momento. Recomendamos que você re
 
 ---
 
-## **10. Contato**
-
-Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade ou sobre o uso dos seus dados, entre em contato:
-
-**E-mail**: [seu e-mail de suporte]  
-**Responsável**: [Seu Nome ou Nome da Empresa]
-
----
-
-## **11. Consentimento**
+## **10. Consentimento**
 
 Ao fornecer seus dados (número de WhatsApp ou e-mail) e contratar o serviço, você declara estar ciente e concorda com os termos desta Política de Privacidade.
